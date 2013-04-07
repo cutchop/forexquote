@@ -1,0 +1,12 @@
+D:\wukai\myself\ForexQuote\ForexQuote\bin\Debug\ForexQuote.exe
+D:\wukai\myself\ForexQuote\ForexQuote\bin\Debug\ForexQuote.pdb
+D:\wukai\myself\ForexQuote\ForexQuote\obj\Debug\ResolveAssemblyReference.cache
+D:\wukai\myself\ForexQuote\ForexQuote\obj\Debug\Window1.baml
+D:\wukai\myself\ForexQuote\ForexQuote\obj\Debug\Window1.g.cs
+D:\wukai\myself\ForexQuote\ForexQuote\obj\Debug\App.g.cs
+D:\wukai\myself\ForexQuote\ForexQuote\obj\Debug\ForexQuote_MarkupCompile.cache
+D:\wukai\myself\ForexQuote\ForexQuote\obj\Debug\ForexQuote.g.resources
+D:\wukai\myself\ForexQuote\ForexQuote\obj\Debug\ForexQuote.Properties.Resources.resources
+D:\wukai\myself\ForexQuote\ForexQuote\obj\Debug\ForexQuote.csproj.GenerateResource.Cache
+D:\wukai\myself\ForexQuote\ForexQuote\obj\Debug\ForexQuote.exe
+D:\wukai\myself\ForexQuote\ForexQuote\obj\Debug\ForexQuote.pdb

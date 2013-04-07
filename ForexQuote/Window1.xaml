@@ -1,0 +1,15 @@
+﻿<Window x:Class="ForexQuote.Window1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Forex" Height="150" Width="74" Opacity="0.5" Topmost="True" 
+    MouseDoubleClick="Window_MouseDoubleClick" MouseDown="Window_MouseDown" 
+    WindowStyle="None" ResizeMode="NoResize" AllowsTransparency="True">
+    <DockPanel Name="panel">
+        <TextBlock DockPanel.Dock="Top" Opacity="0.4" Name="text1" FontWeight="Bold" FontSize="18" FontFamily="微软雅黑" TextAlignment="Center"></TextBlock>
+        <TextBlock DockPanel.Dock="Top" Opacity="0.5" Name="text2" FontWeight="Bold" FontSize="18" FontFamily="微软雅黑" TextAlignment="Center"></TextBlock>
+        <TextBlock DockPanel.Dock="Top" Opacity="0.6" Name="text3" FontWeight="Bold" FontSize="18" FontFamily="微软雅黑" TextAlignment="Center"></TextBlock>
+        <TextBlock DockPanel.Dock="Top" Opacity="0.7" Name="text4" FontWeight="Bold" FontSize="18" FontFamily="微软雅黑" TextAlignment="Center"></TextBlock>
+        <TextBlock DockPanel.Dock="Top" Opacity="0.8" Name="text5" FontWeight="Bold" FontSize="18" FontFamily="微软雅黑" TextAlignment="Center"></TextBlock>
+        <TextBlock DockPanel.Dock="Top" Opacity="0.9" Name="text6" FontWeight="Bold" FontSize="18" FontFamily="微软雅黑" TextAlignment="Center"></TextBlock>
+    </DockPanel>
+</Window>
